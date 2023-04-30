@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "563317009087",
+    "project_id": "rocketchat-2c70f",
+    "storage_bucket": "rocketchat-2c70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563317009087:android:c8a8333ceea936f94a340a",
+        "android_client_info": {
+          "package_name": "jp.co.kino3.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563317009087-ji44rc1ll48epbha36eli4mauk43qllp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhsuzunvytzRvhhKQ6-nwsvbsv_GkqLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563317009087-ji44rc1ll48epbha36eli4mauk43qllp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563317009087-0k227ljbqdu0bn15gpbfid73f7qi98ta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.kino3.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
